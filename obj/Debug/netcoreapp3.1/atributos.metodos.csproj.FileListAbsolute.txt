@@ -1,0 +1,13 @@
+C:\Users\DEV\Desktop\atributos.metodos\bin\Debug\netcoreapp3.1\atributos.metodos.exe
+C:\Users\DEV\Desktop\atributos.metodos\bin\Debug\netcoreapp3.1\atributos.metodos.deps.json
+C:\Users\DEV\Desktop\atributos.metodos\bin\Debug\netcoreapp3.1\atributos.metodos.runtimeconfig.json
+C:\Users\DEV\Desktop\atributos.metodos\bin\Debug\netcoreapp3.1\atributos.metodos.runtimeconfig.dev.json
+C:\Users\DEV\Desktop\atributos.metodos\bin\Debug\netcoreapp3.1\atributos.metodos.dll
+C:\Users\DEV\Desktop\atributos.metodos\bin\Debug\netcoreapp3.1\atributos.metodos.pdb
+C:\Users\DEV\Desktop\atributos.metodos\obj\Debug\netcoreapp3.1\atributos.metodos.csprojAssemblyReference.cache
+C:\Users\DEV\Desktop\atributos.metodos\obj\Debug\netcoreapp3.1\atributos.metodos.AssemblyInfoInputs.cache
+C:\Users\DEV\Desktop\atributos.metodos\obj\Debug\netcoreapp3.1\atributos.metodos.AssemblyInfo.cs
+C:\Users\DEV\Desktop\atributos.metodos\obj\Debug\netcoreapp3.1\atributos.metodos.csproj.CoreCompileInputs.cache
+C:\Users\DEV\Desktop\atributos.metodos\obj\Debug\netcoreapp3.1\atributos.metodos.dll
+C:\Users\DEV\Desktop\atributos.metodos\obj\Debug\netcoreapp3.1\atributos.metodos.pdb
+C:\Users\DEV\Desktop\atributos.metodos\obj\Debug\netcoreapp3.1\atributos.metodos.genruntimeconfig.cache
